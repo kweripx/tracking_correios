@@ -9,7 +9,7 @@ async function getTrackInfo() {
   if(rastreio) {
     let api_url = `https://api.linketrack.com/track/json?user=${process.env.api_data}&codigo=${rastreio}`;
 
-     axios.get(api_url, {
+     await axios.get(api_url, {
 
     }).then( async (response) => {
       const data =  await response.data;
