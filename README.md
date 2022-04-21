@@ -24,7 +24,7 @@ node app.js --rastreio=CODIGO DE RASTREIO
 ## Author
 
 * Github: [@kweripx](https://github.com/kweripx)
-* LinkedIn: [@vitor_qz](https://linkedin.com/in/vitor_qz)
+* LinkedIn: [@vitor_qz](https://linkedin.com/in/vitor-qz)
 
 ## Show your support
 
